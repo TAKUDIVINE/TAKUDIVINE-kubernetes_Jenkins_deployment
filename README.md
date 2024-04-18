@@ -1,0 +1,1 @@
+# TAKUDIVINE-kubernetes_Jenkins_deployment
